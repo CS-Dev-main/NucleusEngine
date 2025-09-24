@@ -1,4 +1,4 @@
 {
-"apiPath": "https://finscanr.com",
-"h5Path": "https://web.finscanr.com"
+"apiPath": "https://api.fin-ledgers.com",
+"h5Path": "http://h5.fin-ledgers.com"
 }
